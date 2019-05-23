@@ -2,7 +2,7 @@
 
 This is a php script that sends emails with a designed-email-layout to its receivers using the sender's domain email-address.
 
-You can fine a live example on contact/hire responses from [Isaac Obenson's eT. A. M](http://www.bluedrupsltd.com/team/isaacobenson/) 
+You can fine a live example on the contact/hire responses from [Isaac Obenson's eT. A. M](http://www.bluedrupsltd.com/team/isaacobenson/) 
 
 ## Getting Started
 
