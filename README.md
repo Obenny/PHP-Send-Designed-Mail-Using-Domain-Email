@@ -30,7 +30,7 @@ so that it can look awesome like the [CONTACT](http://bluedrupsltd.com/team/isaa
 
 ## Built With Template from
 
-* [BluedRups Ltd](https://www.inmotionhosting.com/support/email/send-email-from-a-page/using-phpmailer-to-send-mail-through-php) 
+* [BluedRups Ltd](http://bluedrupsltd.com/) 
 * [eT. A. M](http://www.bluedrupsltd.com/team/isaacobenson/)
 * [inmotionhosting.com](https://www.inmotionhosting.com/support/email/send-email-from-a-page/using-phpmailer-to-send-mail-through-php) 
 * [codeworxtech.com](http://phpmailer.codeworxtech.com/)
